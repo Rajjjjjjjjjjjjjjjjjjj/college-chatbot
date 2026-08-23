@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "keywords": ["admission", "admissions", "apply", "eligibility", "enroll", "enrollment", "application"],
+    "question": "How can I apply for admission?",
+    "answer": "You can apply for admission online through the college website's Admission Portal. You'll need your 12th mark sheet, ID proof, and passport-size photographs. The admission office is also open Mon-Sat, 10 AM - 4 PM for offline queries."
+  },
+  {
+    "id": 2,
+    "category": "Admissions",
+    "keywords": ["eligibility criteria", "who can apply", "minimum marks"],
+    "question": "What is the eligibility criteria for admission?",
+    "answer": "Eligibility varies by course. Generally, candidates must have passed 10+2 (or equivalent) with the required minimum percentage set for the specific program. Check the official admission brochure for course-wise details."
+  },
+  {
+    "id": 3,
+    "category": "Courses",
+    "keywords": ["courses", "programs", "departments", "branches", "streams"],
+    "question": "What courses does the college offer?",
+    "answer": "The college offers undergraduate and postgraduate programs across departments such as Computer Science, Information Technology, Mechanical, Electronics, Commerce, and Arts. Visit the Academics section on the website for the full list."
+  },
+  {
+    "id": 4,
+    "category": "Timetable",
+    "keywords": ["timetable", "time table", "class schedule", "lecture schedule", "period"],
+    "question": "Where can I find my class timetable?",
+    "answer": "Your class timetable is published on the department notice board and on the college portal under 'Timetable'. It is usually updated at the start of each semester."
+  },
+  {
+    "id": 5,
+    "category": "Examination",
+    "keywords": ["exam", "exams", "examination", "exam schedule", "exam date", "hall ticket", "admit card"],
+    "question": "When are the examination schedules released?",
+    "answer": "Examination schedules are released about 2-3 weeks before the exams start and are posted on the Examination section of the college portal. Hall tickets/admit cards can be downloaded from the same portal closer to the exam date."
+  },
+  {
+    "id": 6,
+    "category": "Examination",
+    "keywords": ["result", "results", "marksheet", "grade"],
+    "question": "When will exam results be declared?",
+    "answer": "Results are typically declared within 4-6 weeks after the examination ends. You will be notified via the student portal and college notice board."
+  },
+  {
+    "id": 7,
+    "category": "Fees",
+    "keywords": ["fee", "fees", "fee structure", "payment", "installment", "scholarship"],
+    "question": "What is the fee structure and how do I pay fees?",
+    "answer": "Fee structure differs by course and is listed under 'Fees' on the college website. Fees can be paid online via the student portal (net banking/UPI/card) or offline at the accounts office. Scholarship applicants should submit documents to the scholarship cell before the deadline."
+  },
+  {
+    "id": 8,
+    "category": "Faculty",
+    "keywords": ["faculty", "professor", "teacher", "staff", "hod", "contact faculty"],
+    "question": "How can I find faculty details or contact a professor?",
+    "answer": "Faculty details, including department, designation, and email, are listed under the 'Faculty' section of the college website. You can also contact the respective department office for direct assistance."
+  },
+  {
+    "id": 9,
+    "category": "Notices",
+    "keywords": ["notice", "notices", "announcement", "circular"],
+    "question": "Where can I check the latest notices?",
+    "answer": "All official notices and circulars are posted on the Notice Board section of the college website and on department bulletin boards."
+  },
+  {
+    "id": 10,
+    "category": "Events",
+    "keywords": ["event", "events", "fest", "festival", "workshop", "seminar", "cultural"],
+    "question": "How do I know about upcoming college events?",
+    "answer": "Upcoming events, fests, workshops, and seminars are announced on the Events page of the college website and shared through department notice boards and official social media handles."
+  },
+  {
+    "id": 11,
+    "category": "General",
+    "keywords": ["hello", "hi", "hey", "greetings"],
+    "question": "Greeting",
+    "answer": "Hello! I'm your college assistant chatbot. Ask me about admissions, timetables, exams, fees, faculty, notices, or events."
+  },
+  {
+    "id": 12,
+    "category": "General",
+    "keywords": ["thank", "thanks", "thank you"],
+    "question": "Thanks",
+    "answer": "You're welcome! Let me know if you have any other questions about the college."
+  },
+  {
+    "id": 13,
+    "category": "General",
+    "keywords": ["contact", "phone number", "email", "address", "location", "office"],
+    "question": "How can I contact the college office?",
+    "answer": "You can reach the college office during working hours (Mon-Sat, 10 AM - 5 PM). Exact phone number, email, and address are listed on the 'Contact Us' page of the college website."
+  }
+]

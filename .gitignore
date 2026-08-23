@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+*.db
+chatbot.db
+backend/chatbot.db
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+backend/venv/
+
+# Environment configuration
+.env
+.env.local
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
