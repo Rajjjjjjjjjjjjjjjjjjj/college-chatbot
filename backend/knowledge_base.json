@@ -2,92 +2,190 @@
   {
     "id": 1,
     "category": "Admissions",
-    "keywords": ["admission", "admissions", "apply", "eligibility", "enroll", "enrollment", "application"],
+    "keywords": ["admission", "admissions", "apply", "application", "enroll", "enrollment", "how to join", "registration", "register"],
     "question": "How can I apply for admission?",
-    "answer": "You can apply for admission online through the college website's Admission Portal. You'll need your 12th mark sheet, ID proof, and passport-size photographs. The admission office is also open Mon-Sat, 10 AM - 4 PM for offline queries."
+    "answer": "Admissions for first-year degree courses are done through the Mumbai University online admission portal (muugadmission.samarth.edu.in). Before registering you must create your ABC ID (abc.gov.in), which is mandatory. Enter your name exactly as on your Aadhaar card, along with your correct date of birth and gender, because mismatches can lead to rejection. For the latest dates and notices, visit kankavlicollege.com/new-admission-notice-2026-27.html or call 02367-233053."
   },
   {
     "id": 2,
     "category": "Admissions",
-    "keywords": ["eligibility criteria", "who can apply", "minimum marks"],
+    "keywords": ["eligibility", "eligibility criteria", "who can apply", "minimum marks", "entrance exam", "merit", "qualification"],
     "question": "What is the eligibility criteria for admission?",
-    "answer": "Eligibility varies by course. Generally, candidates must have passed 10+2 (or equivalent) with the required minimum percentage set for the specific program. Check the official admission brochure for course-wise details."
+    "answer": "There is no entrance exam for most courses. Admission to most programmes is based on merit in your 12th standard (HSC) results, and postgraduate or self-financed courses may have specific requirements or interviews. PG courses need a relevant Bachelor's degree. Please check the official admission notice for course-wise details."
   },
   {
     "id": 3,
-    "category": "Courses",
-    "keywords": ["courses", "programs", "departments", "branches", "streams"],
-    "question": "What courses does the college offer?",
-    "answer": "The college offers undergraduate and postgraduate programs across departments such as Computer Science, Information Technology, Mechanical, Electronics, Commerce, and Arts. Visit the Academics section on the website for the full list."
+    "category": "Admissions",
+    "keywords": ["prospectus", "brochure", "admission notice", "circular", "flyer", "last date", "dates", "deadline"],
+    "question": "Where can I get the prospectus and admission notices?",
+    "answer": "The 2026-27 prospectus and admission notices (first, second and third year UG, and PG) are available on the college website under Academics > Admission Notices (kankavlicollege.com/new-admission-notice-2026-27.html). Ph.D admission 2026-27 is through a separate online form linked on the website. Note: the first year degree online admission last date announced was 12th August 2026, so please check the website for any later rounds."
   },
   {
     "id": 4,
-    "category": "Timetable",
-    "keywords": ["timetable", "time table", "class schedule", "lecture schedule", "period"],
-    "question": "Where can I find my class timetable?",
-    "answer": "Your class timetable is published on the department notice board and on the college portal under 'Timetable'. It is usually updated at the start of each semester."
+    "category": "Courses",
+    "keywords": ["courses", "programs", "programmes", "departments", "branches", "streams", "degree", "what courses"],
+    "question": "What courses does Kankavli College offer?",
+    "answer": "Undergraduate: B.A. (Regular), B.Com (Regular), B.Sc. (Regular), B.Sc. (Computer Science), and B.Com (Accounting & Finance). Postgraduate: M.Com (Advanced Accounting), and M.A. in Marathi, Hindi, English, History and Economics. Ph.D programmes are offered in History and Economics. The college also has a Junior College and YCMOU programmes. B.A., B.Com and B.Sc. (Regular) are aided; B.Sc. (CS) and B.Com (Accounting & Finance) are self-financed."
   },
   {
     "id": 5,
-    "category": "Examination",
-    "keywords": ["exam", "exams", "examination", "exam schedule", "exam date", "hall ticket", "admit card"],
-    "question": "When are the examination schedules released?",
-    "answer": "Examination schedules are released about 2-3 weeks before the exams start and are posted on the Examination section of the college portal. Hall tickets/admit cards can be downloaded from the same portal closer to the exam date."
+    "category": "Courses",
+    "keywords": ["ug", "undergraduate", "ba", "b.a", "bcom", "b.com", "bsc", "b.sc", "baf", "computer science", "bsc cs", "accounting and finance"],
+    "question": "Which undergraduate courses are available?",
+    "answer": "UG courses are B.A. (Regular), B.Com (Regular), B.Sc. (Regular), B.Sc. Computer Science, and B.Com Accounting & Finance (BAF). Details of each course are on kankavlicollege.com/underGraduateCourses.html."
   },
   {
     "id": 6,
-    "category": "Examination",
-    "keywords": ["result", "results", "marksheet", "grade"],
-    "question": "When will exam results be declared?",
-    "answer": "Results are typically declared within 4-6 weeks after the examination ends. You will be notified via the student portal and college notice board."
+    "category": "Courses",
+    "keywords": ["pg", "postgraduate", "post graduate", "ma", "m.a", "mcom", "m.com", "master", "masters"],
+    "question": "Which postgraduate courses are available?",
+    "answer": "PG courses are M.Com (Advanced Accounting) and M.A. in Marathi, Hindi, English, History and Economics. Details are on kankavlicollege.com/postGraduateCourses.html."
   },
   {
     "id": 7,
-    "category": "Fees",
-    "keywords": ["fee", "fees", "fee structure", "payment", "installment", "scholarship"],
-    "question": "What is the fee structure and how do I pay fees?",
-    "answer": "Fee structure differs by course and is listed under 'Fees' on the college website. Fees can be paid online via the student portal (net banking/UPI/card) or offline at the accounts office. Scholarship applicants should submit documents to the scholarship cell before the deadline."
+    "category": "Courses",
+    "keywords": ["phd", "ph.d", "doctorate", "research", "doctoral"],
+    "question": "Does the college offer Ph.D programmes?",
+    "answer": "Yes, Kankavli College offers Ph.D programmes in History and Economics. Ph.D admission for 2026-27 is through an online form linked on the college website. See kankavlicollege.com/phd.html for details."
   },
   {
     "id": 8,
-    "category": "Faculty",
-    "keywords": ["faculty", "professor", "teacher", "staff", "hod", "contact faculty"],
-    "question": "How can I find faculty details or contact a professor?",
-    "answer": "Faculty details, including department, designation, and email, are listed under the 'Faculty' section of the college website. You can also contact the respective department office for direct assistance."
+    "category": "Courses",
+    "keywords": ["junior college", "11th", "12th", "hsc", "xi", "xii", "jr college"],
+    "question": "Does the college have a junior college?",
+    "answer": "Yes. Kankavli Junior College is part of the institution run by the Shikshan Prasarak Mandal. For junior college admission notices, see the Junior College Notice page on the college website or call 02367-233053."
   },
   {
     "id": 9,
-    "category": "Notices",
-    "keywords": ["notice", "notices", "announcement", "circular"],
-    "question": "Where can I check the latest notices?",
-    "answer": "All official notices and circulars are posted on the Notice Board section of the college website and on department bulletin boards."
+    "category": "Courses",
+    "keywords": ["ycmou", "open university", "distance", "distance education", "yashwantrao chavan"],
+    "question": "Does the college offer YCMOU programmes?",
+    "answer": "Yes, the college has a YCMOU (Yashwantrao Chavan Maharashtra Open University) programmes section. Details are at kankavlicollege.com/ycmou.html."
   },
   {
     "id": 10,
-    "category": "Events",
-    "keywords": ["event", "events", "fest", "festival", "workshop", "seminar", "cultural"],
-    "question": "How do I know about upcoming college events?",
-    "answer": "Upcoming events, fests, workshops, and seminars are announced on the Events page of the college website and shared through department notice boards and official social media handles."
+    "category": "Fees",
+    "keywords": ["fee", "fees", "fee structure", "payment", "installment", "how much", "cost", "charges"],
+    "question": "What is the fee structure?",
+    "answer": "Fees differ by course, year and category (General, OBC, SC/ST). The official 2026-27 fee structure PDFs for B.A., B.Com, B.Sc., B.Sc. CS, BAF, M.A./M.Com and Ph.D are available at kankavlicollege.com/fee-structure.html. Fees are also governed by the University Fees Regulating Authority circulars linked on the admission notice page. For payment queries call the college office on 02367-233053."
   },
   {
     "id": 11,
-    "category": "General",
-    "keywords": ["hello", "hi", "hey", "greetings"],
-    "question": "Greeting",
-    "answer": "Hello! I'm your college assistant chatbot. Ask me about admissions, timetables, exams, fees, faculty, notices, or events."
+    "category": "Fees",
+    "keywords": ["scholarship", "scholarships", "reserved", "obc", "sc", "st", "freeship", "financial aid", "caste"],
+    "question": "Are scholarships available?",
+    "answer": "Yes. A scholarship form for reserved category students (first year, all courses) is available in the Notices section of the college website. Fee structures are also published separately for General, OBC and SC/ST categories. Contact the college office on 02367-233053 for scholarship guidance."
   },
   {
     "id": 12,
-    "category": "General",
-    "keywords": ["thank", "thanks", "thank you"],
-    "question": "Thanks",
-    "answer": "You're welcome! Let me know if you have any other questions about the college."
+    "category": "Timetable",
+    "keywords": ["timetable", "time table", "class schedule", "lecture schedule", "period", "lectures"],
+    "question": "Where can I find my class timetable?",
+    "answer": "Class timetables are announced by your department and put on the notice board. The college also publishes an Academic Calendar at kankavlicollege.com/acadamic_calender.html."
   },
   {
     "id": 13,
+    "category": "Examination",
+    "keywords": ["exam", "exams", "examination", "exam schedule", "exam date", "hall ticket", "admit card", "exam timetable", "exam notice"],
+    "question": "Where can I find exam notices and the exam timetable?",
+    "answer": "Under the Examination menu on the college website you will find Examination Notices, the Exam Time Table, Examination Composition and the Examination Policy (kankavlicollege.com/exam_notice.html and exam_timetable.html). Since the college is affiliated with the University of Mumbai, exam schedules follow the university's calendar."
+  },
+  {
+    "id": 14,
+    "category": "Examination",
+    "keywords": ["result", "results", "marksheet", "grade", "marks"],
+    "question": "Where can I check exam results?",
+    "answer": "Results are published under Examination > Examination Results on the college website (kankavlicollege.com/results.html). University of Mumbai results are also declared on the university website mu.ac.in."
+  },
+  {
+    "id": 15,
+    "category": "Faculty",
+    "keywords": ["faculty", "professor", "teacher", "staff", "hod", "contact faculty", "teachers", "lecturer"],
+    "question": "How can I find faculty details?",
+    "answer": "Faculty and staff details are available under About Us > Staff on the college website (kankavlicollege.com/faculty.html). You can also contact the college office on 02367-233053."
+  },
+  {
+    "id": 16,
+    "category": "Faculty",
+    "keywords": ["principal", "head of college", "principal name", "who is the principal"],
+    "question": "Who is the principal of Kankavli College?",
+    "answer": "The Principal of Kankavli College is Prof. (Mr.) Yuvaraj V. Mahalinge. His message is available under About Us > Principal's Message on the college website."
+  },
+  {
+    "id": 17,
+    "category": "Notices",
+    "keywords": ["notice", "notices", "announcement", "circular", "latest news", "updates", "news"],
+    "question": "Where can I check the latest notices?",
+    "answer": "Latest notices (admission notices, university term arrangement 2026-27, scholarship forms and more) are posted in the Notices section on the college website home page, and on the college notice board. Admission notices are at kankavlicollege.com/new-admission-notice-2026-27.html."
+  },
+  {
+    "id": 18,
+    "category": "Events",
+    "keywords": ["event", "events", "fest", "festival", "workshop", "seminar", "cultural", "sports", "kanak", "competition"],
+    "question": "How do I know about upcoming college events?",
+    "answer": "Events and sports are listed under Student's Life > Events & Sports on the college website (kankavlicollege.com/events.html). The college also holds its annual cultural festival, Kanak (Kanak 2026-27 was announced on the website), and shares updates on its Facebook and Instagram pages (kankavli_college)."
+  },
+  {
+    "id": 19,
+    "category": "Student Life",
+    "keywords": ["club", "clubs", "nss", "ncc", "dlle", "music club", "theatre", "dance", "fine art", "literary", "extracurricular", "activities"],
+    "question": "What clubs and extracurricular activities are there?",
+    "answer": "The college has NSS, NCC and DLLE units, plus student clubs for Music, Theatre, Fine Art, Literary and Dance activities. Join links for the clubs are shared on the college website's home page."
+  },
+  {
+    "id": 20,
+    "category": "Student Life",
+    "keywords": ["alumni", "alumni association", "former students", "student welfare", "achievements", "achievement"],
+    "question": "Does the college have an alumni association and student welfare?",
+    "answer": "Yes. The website has sections for the Alumni Association, Student Welfare and Student Achievements under the Student's Life menu (kankavlicollege.com/alumni.html, student_welfare.html, student_achievements.html)."
+  },
+  {
+    "id": 21,
+    "category": "Placements",
+    "keywords": ["placement", "placements", "career", "job", "jobs", "recruitment", "internship", "internships", "campus"],
+    "question": "Does the college help with placements?",
+    "answer": "Yes. Kankavli College has a placement cell that helps students connect with companies and offers internships, workshops and job opportunities."
+  },
+  {
+    "id": 22,
+    "category": "Facilities",
+    "keywords": ["library", "books", "reading room", "journals", "e-books", "n-list", "inflibnet", "newspaper"],
+    "question": "Tell me about the library.",
+    "answer": "The central library covers 2174 sq. metres and has a reading room for students and faculty, with separate subject-wise sections and open access to books. It holds about 6000 books, 20 journals, 13 magazines and 7 newspapers, plus text books, reference books, e-books, question papers and CDs. E-resources such as INFLIBNET N-List are available, and some departments also have their own libraries."
+  },
+  {
+    "id": 23,
+    "category": "About",
+    "keywords": ["about", "history", "established", "founded", "accreditation", "naac", "affiliation", "university", "mumbai university", "ugc"],
+    "question": "Tell me about Kankavli College.",
+    "answer": "Kankavli College, Kankavli is run by the Shikshan Prasarak Mandal, which was founded in 1972. The Commerce faculty began in August 1990 and the Arts faculty was added in 1993-94. The college is NAAC re-accredited with an A Grade, was recognised by UGC as a 'College with Potential for Excellence', and is affiliated with the University of Mumbai."
+  },
+  {
+    "id": 24,
+    "category": "About",
+    "keywords": ["vision", "mission", "aim", "objective", "motto"],
+    "question": "What are the college's vision and mission?",
+    "answer": "Vision: creating educational opportunities for youth so they become self-reliant, confident and ready to explore their identity in the global scenario. Mission: imparting value-based, need-based and environment-friendly education, encouraging youth to use acquired knowledge, skills and the natural resources of Konkan."
+  },
+  {
+    "id": 25,
     "category": "General",
-    "keywords": ["contact", "phone number", "email", "address", "location", "office"],
+    "keywords": ["hello", "hi", "hey", "greetings", "good morning", "good evening"],
+    "question": "Greeting",
+    "answer": "Hello! I'm the Kankavli College assistant. Ask me about admissions, courses, fees, exams, library, events, placements or contact details."
+  },
+  {
+    "id": 26,
+    "category": "General",
+    "keywords": ["thank", "thanks", "thank you"],
+    "question": "Thanks",
+    "answer": "You're welcome! Let me know if you have any other questions about Kankavli College."
+  },
+  {
+    "id": 27,
+    "category": "General",
+    "keywords": ["contact", "phone number", "phone", "email", "address", "location", "office", "where is", "call", "reach"],
     "question": "How can I contact the college office?",
-    "answer": "You can reach the college office during working hours (Mon-Sat, 10 AM - 5 PM). Exact phone number, email, and address are listed on the 'Contact Us' page of the college website."
+    "answer": "Address: Vidya Nagar, At Post Kankavli, Tal-Kankavli, Dist-Sindhudurg, Maharashtra, 416602. Phone: 02367-233053. Email: kankavlicollege@gmail.com. Website: kankavlicollege.com. Instagram: kankavli_college."
   }
 ]
